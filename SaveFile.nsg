@@ -1,8 +1,16 @@
 []
-Room=
+Room=SavePoint1
 hp=9
-Name=
+Name=DEV_TSTR
 gold=0
 healthpack=1
 book=0
 hasLight?=0
+ItemSlot1=empty
+ItemSlot2=empty
+ItemSlot3=empty
+ItemSlot4=empty
+ItemSlot5=empty
+WeaponSlot1=wood sword
+WeaponSlot2=wood sheild
+Health=9
