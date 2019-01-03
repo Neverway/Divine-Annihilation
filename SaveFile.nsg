@@ -1,7 +1,7 @@
 []
-Room=OutOfFightCat_NoWin
+Room=OutOfShop
 hp=9
-Name=DEV_TSTR
+Name=DEV_TSR
 gold=0
 healthpack=1
 book=0
@@ -14,3 +14,5 @@ ItemSlot5=
 WeaponSlot1=wood sword
 WeaponSlot2=wood sheild
 Health=9
+HasMember1=True
+HasMember2=True
