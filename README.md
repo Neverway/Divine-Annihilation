@@ -1,8 +1,8 @@
 # Divine Annihilation
 
 
-Divine Annihilation is a RPG bullet hell with aspects from Undertale, Final Fantasy, and Pokemon.
+Divine Annihilation is a RPG bullet hell, with aspects from Undertale, Final Fantasy, Earth Bound, and Pokemon.
 
 
 
-Website: https://sites.google.com/view/neverway
+Website: https://Neverway.github.io
